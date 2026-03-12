@@ -1,0 +1,23 @@
+<html>
+
+<head><title>No Doubt</title>
+
+<style type="text/css">
+
+a:link {color:red)
+
+a:visited {color:blue) a:active {color: yellow}
+
+</style>
+
+</head>
+
+<body>
+
+<p><a href="http://www.informatics.indiana.edu">Informatics</a></p>
+
+<p><a href="http://www.espn.com">Sports</a></p>
+
+</body>
+
+</html>
