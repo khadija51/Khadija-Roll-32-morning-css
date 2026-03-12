@@ -1,0 +1,23 @@
+<html>
+
+<head>
+<title>No Doubt</title>
+
+<style type="text/css">
+.task {
+color: red;
+font-weight: bold;
+}
+</style>
+
+</head>
+
+<body>
+
+<p class="task">Make a new page using this HTML file</p>
+
+<p>See, the paragraph without the class task is normal</p>
+
+</body>
+
+</html>
