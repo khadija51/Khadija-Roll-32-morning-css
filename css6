@@ -1,0 +1,29 @@
+<html>
+
+<head><title>No Doubt</title>
+
+<style type="text/css">
+
+a:link {color:blue; text-decoration:none}
+
+a:visited {color:blue; text-decoration:none}
+
+a:active {color: blue; text-decoration:none}
+
+a:hover {color:red; font-weight:bold; text-transform: uppercase}
+
+</style>
+
+</head>
+
+<body>
+
+<p><a href="http://www.informatics.indiana.edu">Informatics</a></p>
+
+<p><a href="http://www.espn.com">Sports</a></p>
+
+<p><a href="http://www.google.com">search</a></p>
+
+</body>
+
+</html>
